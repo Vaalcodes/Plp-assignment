@@ -1,5 +1,5 @@
 # se-day-2-git-and-github
-1. Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project intergrity
+1.Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project intergrity
 Fundamental Concepts of Version Control 
 Version control is a system that tracks changes to files over time, allowing multiple people to collaborate, review history, and revert to previous versions if needed. The fundamental concepts include:  
 Repositories- A storage location for project files and their version history.  
